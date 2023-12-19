@@ -16,7 +16,7 @@ Planteamos el posible diagrama de clases:
 ![Diagrama de clases](https://i.ibb.co/P1mH2dW/UML-DIAGRAM-CLASS.jpg)
 
 #### Solución
-Una solución que vi posible es aplicar el patrón de diseño creacional Factory Method porque el usuario puede ser una empresa (spa de uñas) o un cliente, de tal modo que al registrarse decidirá que tipo de usuario ser y esto brinda flexibilidad. Claro, esto es propenso a modificación ya que solo estoy jugando un poco con el código.
+Vi posible es aplicar el patrón de diseño creacional Factory Method porque el usuario puede ser una empresa (spa de uñas) o un cliente, de tal modo que al registrarse decidirá que tipo de usuario ser y esto brinda flexibilidad al crear un usuario. Claro, esto es propenso a modificación ya que solo estoy jugando un poco con el código.
 
 Lo que he hecho es diseñar un menú donde un usuario elija unas de las siguientes opciones:  
 ![menu](https://i.ibb.co/2qWNwZr/menu-bazaar.jpg)
