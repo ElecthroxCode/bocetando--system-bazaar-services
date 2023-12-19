@@ -9,17 +9,17 @@ Cabe mencionar que este planteamiento del problema es "generalizado", ya que la 
 ## Analisis
 #### Diagrama E-R
 Aqui se plantea el posible de diagrama E-R:  
-![Diagrama E-R](https://www.dropbox.com/scl/fi/fne5eor4w3wmajxe8cbtv/E-R-DIAGRAMA-BAZAAR.jpg?rlkey=36nu4lr2g1ouq1avt5kf8tumd&dl=0)
+![Diagrama E-R](https://i.ibb.co/tm2ySf4/E-R-DIAGRAMA-BAZAAR.jpg)
 
 #### Diagrama de Clases
 Planteamos el posible diagrama de clases:  
-![Diagrama de clases](https://www.dropbox.com/scl/fi/909htw5deu6tev6kpd2dz/UML-DIAGRAM-CLASS.jpg?rlkey=1szwr7yezcm30e952ni6l1e7l&dl=0)
+![Diagrama de clases](https://i.ibb.co/P1mH2dW/UML-DIAGRAM-CLASS.jpg)
 
 #### Solución
 Una solución que vi posible es aplicar el patrón de diseño creacional Factory Method porque el usuario puede ser una empresa (spa de uñas) o un cliente, de tal modo que al registrarse decidirá que tipo de usuario ser y esto brinda flexibilidad. Claro, esto es propenso a modificación ya que solo estoy jugando un poco con el código.
 
 Lo que he hecho es diseñar un menú donde un usuario elija unas de las siguientes opciones:  
-![menu](https://www.dropbox.com/scl/fi/fkwhmz2y6zo60xzxwcvnr/menu-bazaar.jpg?rlkey=fj2bjbtzas8dpccbjzqcga9b3&dl=0)
+![menu](https://i.ibb.co/2qWNwZr/menu-bazaar.jpg)
 #### Logros
 A pesar de que aún estoy en proceso de construcción de este proyecto personal, el realizar este de ejercicio de "jugar" con el código previamente antes de empezar enserio con el proyecto me ha permitido 'aterrizar' mejor las ideas y afianzar mejor ciertos conceptos en ambito del desarrollo. Además, me ha ayudado a reflexionar en la evolución de este pequeños proyecto a futuro.  
 Algo que me parece importante es el hecho de que también me la he pasado bien en el diseño y elaboración de este ejercicio. Por lo tanto, lo tomaré como un *hobbie* y a medida que le vaya metiendo mano, estaré añadiendo dichas actualizaciones😀
